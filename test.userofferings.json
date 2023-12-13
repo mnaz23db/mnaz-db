@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "655785e2afb903afc635a2e5"
+  },
+  "user": {
+    "$oid": "6554f94262a4d0904d6006a9"
+  },
+  "offering": {
+    "$oid": "65574ae4aae4f06591148380"
+  },
+  "following": false,
+  "questions": [
+    "second question "
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6557b58b919f212cc5e71189"
+  },
+  "user": {
+    "$oid": "6554f94262a4d0904d6006a9"
+  },
+  "offering": {
+    "$oid": "65574f17fcdfb68298f76b20"
+  },
+  "following": false,
+  "questions": [
+    "is this still availbel"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65586c0db45bd6d2b51488b7"
+  },
+  "user": {
+    "$oid": "65586bc3b45bd6d2b514887a"
+  },
+  "offering": {
+    "$oid": "65574f17fcdfb68298f76b20"
+  },
+  "following": true,
+  "questions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c76f31c4f7f38ae441933"
+  },
+  "user": {
+    "$oid": "6554f94262a4d0904d6006a9"
+  },
+  "offering": {
+    "$oid": "65574d97fcdfb68298f76b1a"
+  },
+  "following": false,
+  "questions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e363acf6af0795cbf0298"
+  },
+  "user": {
+    "$oid": "655e35a7cf6af0795cbf0268"
+  },
+  "offering": {
+    "$oid": "65574ae4aae4f06591148380"
+  },
+  "following": true,
+  "questions": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e432918b9efd3240b75c7"
+  },
+  "user": {
+    "$oid": "655e42fe18b9efd3240b75aa"
+  },
+  "offering": {
+    "$oid": "65574ae4aae4f06591148380"
+  },
+  "following": true,
+  "questions": [],
+  "__v": 0
+}]

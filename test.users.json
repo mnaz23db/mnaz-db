@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "6554f94262a4d0904d6006a9"
+  },
+  "firstName": "Moiz",
+  "lastName": "Afzal",
+  "email": "moiz22317@gmail.com",
+  "phoneNumber": "03215564891",
+  "password": "1234",
+  "role": "Broker",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6557c170aa3048413541ba86"
+  },
+  "firstName": "Moiz",
+  "lastName": "Moiz",
+  "email": "ali@gmail.com",
+  "phoneNumber": "Moiz",
+  "password": "Moiz",
+  "role": "Lendor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6557c17baa3048413541ba88"
+  },
+  "firstName": "Huzaifa",
+  "lastName": "Zia",
+  "email": "zia@gmail.com",
+  "phoneNumber": "03215564892",
+  "password": "1212",
+  "role": "Lendor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65586bc3b45bd6d2b514887a"
+  },
+  "firstName": "hamza ",
+  "lastName": "h",
+  "email": "testuser@example.com",
+  "phoneNumber": "0300",
+  "password": "hamza",
+  "role": "Lendor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655c7a971c4f7f38ae441947"
+  },
+  "firstName": "Abdullah",
+  "lastName": "Khabba",
+  "email": "khabba@gmail.com",
+  "phoneNumber": "031287714735",
+  "password": "abd",
+  "role": "Visitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e3546cf6af0795cbf024c"
+  },
+  "firstName": "XXXX",
+  "lastName": "YYYY",
+  "email": "test@tester.com",
+  "phoneNumber": "123456789",
+  "password": "98765",
+  "role": "Visitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e35a7cf6af0795cbf0268"
+  },
+  "firstName": "TTTT",
+  "lastName": "SSSS",
+  "email": "testX@tester.com",
+  "phoneNumber": "03205469865",
+  "password": "54123",
+  "role": "Visitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e429618b9efd3240b7594"
+  },
+  "firstName": "TestX",
+  "lastName": "User",
+  "email": "TestX@tester.com",
+  "phoneNumber": "0313546974",
+  "password": "4200",
+  "role": "Visitor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655e42fe18b9efd3240b75aa"
+  },
+  "firstName": "TestA",
+  "lastName": "User",
+  "email": "TestA@tester.com",
+  "phoneNumber": "6574891420",
+  "password": "9876",
+  "role": "Broker",
+  "__v": 0
+}]
